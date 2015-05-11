@@ -1,0 +1,26 @@
+---
+  env:
+    node: true
+    es6: true
+
+  ecmaFeatures:
+    modules: true
+
+  rules:
+    brace-style: [2, '1tbs', { 'allowSingleLine': true }]
+    complexity: [2, 5]
+    global-strict: [2, 'always']
+    max-len: [2, 80, 4]
+    max-depth: [2, 3]
+    max-statements: [2, 15]
+    max-params: [2, 3]
+    no-use-before-define: [2, 'nofunc']
+    quotes: [2, 'single', 'avoid-escape']
+    no-var: [2]
+    no-throw-literal: [2]
+    guard-for-in: [2]
+    no-floating-decimal: [2]
+    no-lonely-if: [2]
+    no-nested-ternary: [2]
+    space-in-parens: [2, 'never']
+    space-in-brackets: [2, 'never']

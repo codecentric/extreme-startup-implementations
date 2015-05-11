@@ -1,0 +1,23 @@
+what is your name!!!bripkens
+which of the following numbers is the largest: 927, 468, 100, 19!!!927
+which of the following numbers is the largest: 70, 70!!!70
+what is 1 plus 1!!!2
+1a08ecb0: what is 16 plus 11!!!27
+1a08ecb0: what is 16 * 2!!!32
+155a4560: which of the following numbers is both a square and a cube: 64, 3!!!64
+e0980d40: which of the following numbers is both a square and a cube: 729, 117649, 316, 999!!!729, 117649
+b13f3fc0: what is 14 multiplied by 12!!!168
+dsdsa: what is 3 to the power of 2!!!9
+b54ee940: which of the following numbers is both a square and a cube: 12, 25!!!25
+2c9e4780: which of the following numbers are primes: 373, 504, 107, 1!!!373, 107
+3312: what colour is a banana!!!yellow
+aa5de190: which city is the Eiffel tower in!!!Paris
+dasda: what currency did Spain use before the Euro!!!Peseta
+dsdas: Prime Minister!!!David Cameron
+530b2210: which of the following numbers is the largest: 37, 608!!!608
+84dc9520: which of the following numbers are primes: 263, 17, 89, 309!!!263, 17, 89
+dsdsa: what is the 13th number in the Fibonacci sequence!!!233
+d1d4d8c0: what is 17 plus 15 plus 16!!!48
+61b8060: what is 16 to the power of 17!!!295147905179352830000
+579c6cf0: what is the english scrabble score of banana!!!8
+bcbc9ca0: which of the following is an anagram of "dictionary": abdication, indicatory, butterfly, incendiary!!!indicatory
