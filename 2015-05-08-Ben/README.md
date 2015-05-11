@@ -1,7 +1,7 @@
 # Extreme Startup Implementation by @bripkens
 This solution shows what is possible with ECMAScript 6 (ES6) and Node.js. ES6 code is transpiled on application start via the `babel-node` CLI. Internally it registers a `require` extension to do the compilation.
 
-The application also supports loading restarts. It does so by proxying the application behind an nginx instance.
+The application also supports rolling restarts. It does so by proxying the application behind an nginx instance.
 
 This solution greatly benefits from JavaScript's dynamic nature and especially `eval`. Actually, this solution does not use eval, but rather executes the mathematical operations in a restricted child process.
 
