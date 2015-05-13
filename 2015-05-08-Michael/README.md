@@ -5,7 +5,7 @@ As one might expect, my biggest problem was the missing knowledge of the framewo
 was the relatively long cycle time (which was the reason I only re-deployed every 10-20 minutes compared 
 to [Fabian](../2015-05-08-CodingFabian)'s or [Ben](../2015-05-08-Ben)'s 2-second-cycle-time).
 
-To be fair, I wasn't able to finish the [TermParser](c/main/scala/TermParser) during the extreme startup (and even starting it 
+To be fair, I wasn't able to finish the [TermParser](src/main/scala/TermParser.scala) during the extreme startup (and even starting it 
 probably cost me the last two rounds and several hundred points).
 
 ## REST-Service with Akka HTTP
